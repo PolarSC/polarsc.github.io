@@ -1,0 +1,16 @@
+<div class="row pt-3">
+  <div class="col text-center">
+    <img class="img-fluid rounded-5 psc-img-fluid " src="/images/<%= post.mainimage %>" alt="<%= post.title %>">
+  </div>
+</div>
+<div class="row pt-3 psc-ff">
+  <div class="col text-center"><h1><%= post.title %></h1></div>
+</div>
+<div class="row">
+  <div class="col text-center"><h6>By <%= post.author %></h6></div>
+</div>
+<div class="row pt-5">
+  <div class="col">
+    <%- post.content %>
+  </div>
+</div>

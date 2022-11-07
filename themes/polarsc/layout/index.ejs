@@ -1,0 +1,17 @@
+<div class="container-fluid main-post-listing-container"> 
+  <div class="row pb-5 psc-ff">
+    <div class="col text-center">
+        <span class="psc-hero-text-lg">Striving to Make Canada a Soccer Nation</span>
+    </div>
+</div>
+  <div class="row">
+    <% page.posts.sort('date', -1).map((post, index) => { %>
+      <% if (index < 3) { %>
+        <%- partial('_partial/list-view', { post: post}) %>
+      <% } %>
+    <% }) %>
+  </div>
+  <div class="row">
+    <div class="col text-center"><a class="btn btn-primary" href="/articles" role="button"> More articles...</a></div>
+  </div>
+</div>

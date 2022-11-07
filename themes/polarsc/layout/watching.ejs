@@ -1,0 +1,26 @@
+<% if (page.headerimg) { %>
+    <div class="row">
+        <div class="col  text-center">
+            <img class="img-fluid psc-img-fluid" src="<%- page.headerimg %>">
+        </div>
+    </div>
+<% } %>
+<% if (page.header) { %>
+    <div class="row psc-ff">
+        <div class="col">
+            <h1><%- page.header %></h1>
+        </div>
+    </div>
+<% } %>
+<div class="row">
+    <div class="col">
+        <%- page.content %>
+    </div>
+</div>
+<% if (page.downloadlink) { %>
+    <div class="row justify-content-md-center">
+        <div class="col-md-auto">
+            <a class="btn btn-primary" href="<%- url_for(page.downloadlink) %>" target="_blank" role="button" download><i class="bi bi-cloud-arrow-down"></i> &nbsp; Download</a>
+        </div>
+    </div>
+<% } %>

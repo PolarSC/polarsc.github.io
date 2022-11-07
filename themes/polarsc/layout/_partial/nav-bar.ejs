@@ -1,0 +1,21 @@
+<nav class="navbar navbar-expand-lg navbar-light bg-light psc-ff">
+    <div class="container-fluid psc-navbar-background">
+        <div class="navbar-brand text-light psc-navbar-brand" href="#">
+            <a href="/" class="nav-link active link-light font-weight-bold psc-nav-link">
+                <img src="/assets/PolarSCcrest.png" alt="Polar SC logo" class="psc-navbar-brand-logo">
+                Polar SC    
+            </a>        
+        </div>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapser" aria-controls="navbarCollapser" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarCollapser">
+            <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+                <% for (const m in theme.menu) {%>
+                    <li class="nav-item">
+                        <a class="nav-link active link-light font-weight-bold psc-nav-link" aria-current="page" href="<%= theme.menu[m] %>"><%= m %></a>
+                    </li>
+                <% } %>
+        </div>
+    </div>
+  </nav>

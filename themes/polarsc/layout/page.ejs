@@ -1,0 +1,19 @@
+<% if (page.headerimg) { %>
+    <div class="row">
+        <div class="col  text-center">
+            <img class="img-fluid psc-img-fluid" src="<%- page.headerimg %>">
+        </div>
+    </div>
+<% } %>
+<% if (page.header) { %>
+    <div class="row psc-ff">
+        <div class="col">
+            <h1><%- page.header %></h1>
+        </div>
+    </div>
+<% } %>
+<div class="row">
+    <div class="col">
+        <%- page.content %>
+    </div>
+</div>

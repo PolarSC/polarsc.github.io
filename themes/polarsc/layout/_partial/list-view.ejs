@@ -1,0 +1,23 @@
+<div class="col-sm-4 col-md-4 col-lg-4 col-xxl-4 pb-4"> 
+  <div class="row" style="min-height: 261px;">
+    <div class="col">
+      <a href="<%- url_for(post.path) %>">
+        <% if (post.mainimage) { %>
+          <!-- testing -->
+          <img class="article-list-image rounded-5 img-fluid" src="/images/<%= post.mainimage %>" alt="<%= post.title %>">
+        <% } else { %>
+          <img class="article-list-image rounded-5 img-fluid" src="/images/default-article-image.png" alt="<%= post.title %>">
+        <% } %>  
+      </a>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col">
+      <div class="text-center pt-1 psc-article-list-title">
+        <%= post.title %>
+      </div>
+    </div>
+  </div>
+
+
+</div>

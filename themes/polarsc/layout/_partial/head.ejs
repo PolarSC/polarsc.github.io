@@ -1,0 +1,16 @@
+<head>
+  <meta charset="UTF-8">
+  <%- partial('google-analytics') %>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title><% if (page.title){ %><%= page.title %> | <% } %><%= config.title %></title>
+  <% if (theme.favicon) { %>
+    <link rel="icon" href="<%- theme.favicon %>">
+  <% } %>
+  <% if (theme.source_han_font) { %>
+  <% } %>
+  <%- css('//fonts.cdnfonts.com/css/futura') %>
+  <%- css('//cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css') %>
+  <%- css('//cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css') %>
+  <%- css('css/polarsc.css') %>
+</head>
