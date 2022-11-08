@@ -1,26 +1,24 @@
-<% if (page.headerimg) { %>
-    <div class="row">
-        <div class="col  text-center">
-            <img class="img-fluid psc-img-fluid" src="<%- page.headerimg %>">
-        </div>
-    </div>
-<% } %>
-<% if (page.header) { %>
-    <div class="row psc-ff">
-        <div class="col">
-            <h1><%- page.header %></h1>
-        </div>
-    </div>
-<% } %>
 <div class="row">
-    <div class="col">
-        <%- page.content %>
+    <div class="col-xs-2 col-md-10">
+        <div class="row psc-ff">
+            <div class="col">
+                <h1>Canadian Soccer Podcasts We Like</h1>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col">
+                <%- page.content %>
+            </div>
+        </div>
+        <div class="row justify-content-md-center">
+            <div class="col-md-auto">
+                <% if (page.downloadlink) { %>  
+                    <a class="btn btn-primary" href="<%- url_for(page.downloadlink) %>" target="_blank" role="button"><i class="bi bi-music-note-list"></i> &nbsp; Open</a>                 
+                <% } %>         
+            </div>
+        </div>
+    </div>
+    <div class="col-xs-1 col-md-2 psc-podcast-hero">
+        <img src="/assets/podcast_hero.jpg" alt="podcasting microphone" style="width:100%"/>
     </div>
 </div>
-<% if (page.downloadlink) { %>
-    <div class="row justify-content-md-center">
-        <div class="col-md-auto">
-            <a class="btn btn-primary" href="<%- url_for(page.downloadlink) %>" target="_blank" role="button"><i class="bi bi-music-note-list"></i> &nbsp; Open</a>
-        </div>
-    </div>
-<% } %>
