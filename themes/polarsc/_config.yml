@@ -3,6 +3,6 @@ language: en
 menu:
   About: /about
   Articles: /articles
-  CNT Depth Charts: /cntdepth
-  Podcasts We Like: /lists/podcasts
+  # CNT Depth Charts: /cntdepth
+  # Podcasts We Like: /lists/podcasts
   Where to watch your league: /lists/watching
