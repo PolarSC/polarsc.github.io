@@ -54,3 +54,12 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
 }
+
+@media (max-width:768px) {
+    .psc-podcast-hero {
+        height:0px;
+    }
+    .psc-podcast-hero img  {
+        visibility: hidden;
+    }
+}
