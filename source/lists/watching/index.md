@@ -10,5 +10,5 @@ Figuring out where to watch your favourite team or league can be tough. There ar
 
 There are Canadians playing all over the world in both men's and women's leagues. Many of those leagues are available via streaming services, but not all leagues are as popular as others and not all leagues have large numbers of Canadians in them.
 
-Domestically or abroad, we have put together an infographic of the where you can watch the top leagues that Canadians are playing in.
+Domestically or abroad, we have put together an infographic of the places where you can watch the top leagues that Canadians are playing in.
 
