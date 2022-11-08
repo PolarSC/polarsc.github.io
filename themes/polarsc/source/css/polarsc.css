@@ -12,21 +12,21 @@
     max-width: 100px;
 }
 @media (max-width:400px){
-    /* .article-list-image {
-        max-width: 400px;
-        max-height: 200px;
-    } */
     .main-post-listing-container {
         padding-top:20px;
     }
+    .psc-hero-text-lg {
+        font-size: 50px;
+        font-weight: bold;
+    }
 }
 @media (min-width:400px){
-    /* .article-list-image {
-        max-width: 500px;
-        max-height: 250px;
-    } */
     .main-post-listing-container {
         padding-top:30px;
+    }
+    .psc-hero-text-lg {
+        font-size: 100px;
+        font-weight: bold;
     }
 }
 .article-list {
@@ -46,10 +46,7 @@
     background-color: #9B0000 !important;
     border-color: #9B0000 !important;
 }
-.psc-hero-text-lg {
-    font-size: 100px;
-    font-weight: bold;
-}
+
 .psc-ff {
     font-family: 'Futura';
 }
