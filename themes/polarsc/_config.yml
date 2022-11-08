@@ -1,8 +1,8 @@
 language: en
 #google_analytics: UA-147895831-1
 menu:
-  About: /about
-  Articles: /articles
-  CNT Depth Charts: /cntdepth
-  Podcasts We Like: /lists/podcasts
-  Where to watch your league: /lists/watching
+  # About: /about
+  # Articles: /articles
+  # CNT Depth Charts: /cntdepth
+  # Podcasts We Like: /lists/podcasts
+  # Where to watch your league: /lists/watching
