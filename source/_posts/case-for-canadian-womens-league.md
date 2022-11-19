@@ -32,9 +32,7 @@ I broke the player pool down by four categories:
 1. Semi-Pro and/or USports seniors (blue)
 
 The breakdown is below.
-
 ![Player breakdown](/images/case-for-canadian-womens-league-data.png)
-
 We can see above that 78% of the player pool is at the Semi-Pro/USports level and the pool funnels pretty quickly. 14% are NCAA seniors/other pros, while 4% make up the division 1 pros, and 3% are capped internationals. What I find interesting is that about a third of the professional players are capped internationals. Ideally, this number is lower. For example, it’s 17% on the Canadian men’s side. To me, this highlights the fact that the player pool is quite small and needs to be grown. Furthermore, there are 101 professional level players on the women’s side, while on the men’s side there are more than five times that. Clearly the professional player pool needs to grow. Frankly, it can, as we have nearly 1000 players to choose from at various levels across North America that await more professional opportunities.
              
 But which player category would benefit the most from a new league? How could the league take shape?
