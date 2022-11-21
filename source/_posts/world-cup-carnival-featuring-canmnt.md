@@ -2,7 +2,7 @@
 title: "World Cup Carnvival Featuring CanMNT"
 author: Christina
 date: 2022-11-21
-mainimage: wcc_hero.png
+mainimage: WCC_hero.png
 ---
 
 Remember when a Canadian Men's National Team (CanMNT) featured in one of the worst video games ever created? Me neither. I wasn't around back then, but I needed to know more.
