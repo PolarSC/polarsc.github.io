@@ -14,7 +14,7 @@ The first ever FIFA licensed World Cup video game was released in 1986, in honou
     <div class="col-3"><img src="/images/canada-soccer-logo.png" alt="Canada Soccer log"/></div>
 </div>
 
-World Cup Carnival was available for the Commodore 64, Amstradt CPC and ZX Spectrum. These 8-bit home computers of their time are now clearly defunct, but their legacy lives on through retrogaming and technology enthousiasts. In the C64 and Armstradt CPC versions of the game, there are ten playable teams included: Uruguay, Italy, Germany, Brazil, England, Argentina, France, Spain, Mexico and Scotland. However, for the ZX Spectrum, all 24 teams that participated in the 1986 World Cup are available to play. Alas, a Canadian Men's National Team makes an appearance in a video game!
+World Cup Carnival was available for the Commodore 64, Amstrad CPC and ZX Spectrum. These 8-bit home computers of their time are now clearly defunct, but their legacy lives on through retrogaming and technology enthousiasts. In the C64 and Amstrad CPC versions of the game, there are ten playable teams included: Uruguay, Italy, Germany, Brazil, England, Argentina, France, Spain, Mexico and Scotland. However, for the ZX Spectrum, all 24 teams that participated in the 1986 World Cup are available to play. Alas, a Canadian Men's National Team makes an appearance in a video game!
 
 #### The Cover
 
