@@ -1,5 +1,5 @@
 ---
-title: "World Cup Carnvival Featuring CanMNT"
+title: "World Cup Carnival Featuring CanMNT"
 author: Christina
 date: 2022-11-21
 mainimage: WCC_hero.png
