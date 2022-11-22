@@ -5,8 +5,13 @@
     </div>
   </div>
   <div class="row pb-5">
-    <div class="col text-center">
-      Coming Soon!
-    </div>
+    <% page.posts.sort('date', -1).map((post, index) => { %>
+      <% if (index < 3) { %>
+        <%- partial('_partial/list-view', { post: post}) %>
+      <% } %>
+    <% }) %>
+  </div>
+  <div class="row">
+    <div class="col text-center"><a class="btn btn-primary" href="/articles" role="button"> More articles...</a></div>
   </div>
 </div>
