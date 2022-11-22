@@ -23,8 +23,8 @@ World Cup Carnival was available for the Commodore 64, Amstrad CPC and ZX Spectr
 The game's cover includes all kinds of different country flags and has a background image of supporters in a stand. The cover is nothing breathtaking and is somewhat standard design for products of that era. However, it is quite interesting that the image of the supporters that it features is that of Fluminense fans. Perhaps these are images of the Fluminense faithful celebrating their 1984 league title. A notable design choice, in any case.
 
 <div class="row pb-4">
-    <div class="col-4"><img src="/images/wcc_cover4.png" alt="World Cup Carnival cover"/></div>
-    <div class="col-3"><img src="/images/flu_logo.png" alt="Fluminense team logo"/></div>
+    <div class="col-md-6 col-xxl-4"><img src="/images/wcc_cover4.png" alt="World Cup Carnival cover"/></div>
+    <div class="col-md-6 col-xxl-3"><img src="/images/flu_logo.png" alt="Fluminense team logo"/></div>
 </div>
 
 #### The Game Play
@@ -38,10 +38,10 @@ The story behind how the game came to be is told elsewhere by Kim Justice at [Re
 I tried to win the World Cup with Canada. Unfortunately, just like Canada in 1986 in Mexico, I failed to win a game or score a goal. I won't get that 20 minutes of my life back.
 
 <div class="row pb-2">
-    <div class="col-6"><img src="/images/WCC_gameplay1.png" alt="Canada v Belgium screen shot from World Cup Carnival" /></div>
+    <div class="col-md-12 col-xxl-6"><img src="/images/WCC_gameplay1.png" alt="Canada v Belgium screen shot from World Cup Carnival" /></div>
 </div>
 <div class="row pb-4">
-    <div class="col-6"><img src="/images/WCC_gameplay3.png" alt="Canada v Belgium screen shot from World Cup Carnival"/></div>
+    <div class="col-md-12 col-xxl-6"><img src="/images/WCC_gameplay3.png" alt="Canada v Belgium screen shot from World Cup Carnival"/></div>
 </div>
 
 #### Asking AI To Reimagine
