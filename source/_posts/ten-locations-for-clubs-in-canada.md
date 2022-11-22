@@ -1,6 +1,6 @@
 ---
 title: Ten Locations for Soccer Clubs in Canada...and Some Honorable Mentions
-date: 2022-11-19 10:00:00
+date: 2022-11-21 10:08:00
 author: Steven Marc Scott
 mainimage: abstract_soccer_stadium.png
 ---
