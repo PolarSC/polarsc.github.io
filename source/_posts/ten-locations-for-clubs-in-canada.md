@@ -28,7 +28,7 @@ Okay, I know Montreal already has a team, but based on the population size of th
 This location would be great for a few reasons. The population size is quite big, there is a strong likelihood level of watching and attending games, and the tourism effect of Niagara could be a draw. This situation could be a bit like Las Vegas, where people make a trip of it to come to Niagara, take in the attractions, and attend a match against their local team. I don’t think it’d be the main reason for success, but I think it’d help.
 
 #### Mississauga
-This location would be great for a few reasons. The population size is quite big, there is a strong likelihood level of watching and attending games, and the tourism effect of Niagara could be a draw. This situation could be a bit like Las Vegas, where people make a trip of it to come to Niagara, take in the attractions, and attend a match against their local team. I don’t think it’d be the main reason for success, but I think it’d help.
+Unsurprisingly, Mississauga makes the list. Their population size is the seventh largest in Canada and they have a decent level of likelihood of watching soccer matches. Not only that, there are countless youth soccer clubs in the area to cater to which lends itself to a myriad of partnerships.
 
 #### Kitchener – Waterloo
 Kitchener – Waterloo is an easy choice, in my opinion. It’s a fairly large municipality, has many universities to connect with, has experienced lots of commercial growth, has a flavour of German heritage, and scores high for a likelihood in attending and watching soccer matches. Need I say more?
@@ -40,13 +40,14 @@ Yes, yes – The city that is historically known as Canada’s talent hub makes 
 If Canadian professional soccer is desperate to get access to the amount of talent in the province, Quebec City should be a no-brainer. Quebec City has a very large metropolitan area and epitomizes Quebec as a province quite well, as they rank quite high for the likelihood of children playing soccer and attending soccer matches.
 
 #### Scarborough
-If Canadian professional soccer is desperate to get access to the amount of talent in the province, Quebec City should be a no-brainer. Quebec City has a very large metropolitan area and epitomizes Quebec as a province quite well, as they rank quite high for the likelihood of children playing soccer and attending soccer matches.
+To round out the GTA, Scarborough would be a great place for a club. the population is absolutely big enough to support a club and they score fairly well in likelihood levels for
+children playing soccer and attending games. Lastly, in terms of pro sports teams, there is only the upcoming basketball team. Scarborough is a populous area with plenty of minorities (if you’re a minority in Canada, you’re statistically more likely to be involved in soccer) making up the population. I see this as a great location.
 
 #### Gatineau
 Gatineau is an interesting location and was one of the ones that excited me when seeing it pop up. Gatineau scores high for children playing and attending games and has a fairly decent population size. What makes this interesting as well is that “Western Quebec” also scores high in various soccer cultures. If it’s possible to harness and connect with that big area they could easily provide support for a club.
 
 #### London
-Gatineau is an interesting location and was one of the ones that excited me when seeing it pop up. Gatineau scores high for children playing and attending games and has a fairly decent population size. What makes this interesting as well is that “Western Quebec” also scores high in various soccer cultures. If it’s possible to harness and connect with that big area they could easily provide support for a club.
+London is another city that makes sense. The city has a high likelihood of watching soccer with a decent population size. the city has several pro teams playing in various sports which could lend itself to cross-marketing opportunities. There’s also the fact that FC London is already playing in League1 Ontario and could be built on.
 
 #### Burlington
 Burlington was another city that surprised me the most when looking at the data. I wasn’t surprised because it showed a likelihood of being part of the soccer culture, but because it showed it at such a high and consistent level. They are one of the four cities in Canada to have high soccer cultures in children playing, watching games, and attending games. The other three being Vancouver, Victoria, and Prince George! The size of the city is over 200k, which isn’t the most on this list, but I have no doubt they’d do well to have a pro club in the area.
