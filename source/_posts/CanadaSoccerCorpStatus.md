@@ -99,7 +99,7 @@ cc: <a href="https://twitter.com/karen_vecchio?ref_src=twsrc%5Etfw">@karen_vecch
 
 ## What's next?
 
-There were already plenty of questions about Canada Soccer financials. Many of those questions are described in [this report by accounting researcher Fran�ois Brouard of Carleton University](https://carleton.ca/profbrouard/wp-content/uploads/PARGnote202322RSoccerCanadaFinancialequity20230212FB.pdf). Now there's one more question: did Canada Soccer mis-represent their corporate status in government filings?
+There were already plenty of questions about Canada Soccer financials. Many of those questions are described in [this report by accounting researcher François Brouard of Carleton University](https://carleton.ca/profbrouard/wp-content/uploads/PARGnote202322RSoccerCanadaFinancialequity20230212FB.pdf). Now there's one more question: did Canada Soccer mis-represent their corporate status in government filings?
 
 On March 20, [Canada Soccer executives will appear before the Standing Committee on Canadian Heritage](https://twitter.com/AHousefather/status/1630619237558411264). Maybe MPs will ask Canada Soccer about their corporate status filings. If you're still reading this article, then you're a special breed of nerdy Canadian soccer fan, so you might enjoy [this YouTube explanation of what this committee is and what its powers are](https://www.youtube.com/watch?v=aToVe8SB6-o) by Laura Bryan (Canadian soccer journalist with legislative experience).
 
