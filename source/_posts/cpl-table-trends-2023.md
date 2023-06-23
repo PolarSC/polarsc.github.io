@@ -1,9 +1,15 @@
 ---
 title: CanPL Table Trends
 date: 2023-05-30 10:02:00
-author: Donald Belcham
-mainimage: cpl-table-trends-hero.jpg
+author: db
+mainimage: cpl_table_trends_hero.png
 ---
+
+Predicting a league's table is a common activity amongst fans and pundits. Prior to a season starting, people predict the final table based on perceived lineup strength, off season roster moves, and coaching changes. Throughout the season fans and pundits rarely re-address the full act of predicting the final table with the new information that they have at hand.
+
+In North America, the most common table prediction that you'll see while a season is in flight is the "Power Ranking". These are table preditions in all but name, and they do integrate new information about team's performances, capabilities, and rosters. But power rankings seem to be created by very few people. In the CanPL, for example, there have been two sources of power rankings that I've been aware of; the OneSoccer pundits, and Northern Tribune.
+
+Power rankings and pre season table predictions give you point-in-time opinions about the league and its teams. Can you, however, predict the final table (or create your own power ranking) based solely on the current table and the historical table movement of the the league. Specifically, can you do it for the Canadian Premier League?
 
 #### Data
 As always, there are boundaries that need to be drawn around the data that is going to be used. One of the first boundaries is to exclude the 2020 "Island Games" as the format, length, cadence, etc were very different from a "normal" season. These factors make the data unusable for this study.
@@ -112,14 +118,19 @@ Compared to the other CanPL teams, Forge is consistent while in the top half of 
 While the legend of a slow start for Forge makes for good story telling, the data doesn't support the story. Forge performs very similarly before and after the first 25% of the season is completed. As the season progresses, they retain their table position and produce similar points per game.
 
 #### 2023
-- no prediction
-- after 7 games the table is:
-  - points spread from 1 to 8 vs other seasons
-  - ppg vs other seasons
+Now that we've established our historical data, and the trends/patterns that might exist within it, what does the 2023 CanPL table look like if we apply that information to the table at the quarter finished point (after 7 games)?
 
-#### Comparison leagues
-- A League
-- K League
-- Venezuela
-- EFL League 1
-- EFL League 2
+![2023 after 7 games](/images/cpl-table-trends-2023-7-game.PNG)
+
+First, we can look at the number of table positions that a team might move. Using the historical data we know that there have been 6 instances, of 9 possible opportunities, (66.7%) that a top 3 team at the 7 game mark will be in the top 3 at the end of the season. Applied to CanPL 2023, two of Forge, Pacific and York will be in the top 3 at the end of the season. As the 2023 season has progressed the table is less clear because it starts adding midweek games in an imbalanced way. Looking at the standings after all teams have played 10 games, a clear separation of the top 3 teams has appeared in the table, and all of those teams were in the top three at the 7 game point.
+
+![2023 after 10 games](/images/cpl-table-trends-2023-10-game.PNG)
+
+It's not as clear that there's a pattern for the bottom 3 teams in the table after 7 games played in the season. Like 2019 and 2020, there is a very small points spread between the bottom 3 teams, but they've not been clearly separated from the rest of the table. This is an important group in 2023 since those three teams will be the only ones missing the CanPL playoffs. You can, however, make predictions with more confidence at the 14 game point. If a team is outside the playoff five after 14 games, they historically have had a 12.5% chance of moving up into a playoff position. And, given more context, that chance only exists for a team in 6th place at that time.
+
+Much has been said about the large number of drawn games in CanPL 2023, and that is probably fodder for an entire article on its own. That said, the points per game that a team is able to establish after 7 games played is pretty accurate to their end of season total. Teams will acheive their predicted total points +/-8 points, or +/-0.286 points per game, 69.5% of the time. With the inordinate amount of drawn games to start 2023, it is possible that there could be more teams doing better than this since getting more than one win out of every three games will be a points improvement for many of the draw-heavy teams.
+
+#### In the broader context
+As has been noted in multiple places in this article, there is a very small sample size for CanPL games. Small enough that its necessary to include some fairly large caveats into the discussion; the 2021 Winnipeg bubble and unbalanced schedules being two very large ones. 
+
+It's important to look at other leagues to see how they compare to the CanPL. There's a lot to do to make an equitable comparison across leagues though. Because of that it's best that it doesn't get included in this write up, instead getting an article of its own where constraints, considerations and data impact can be outlined in addition to the patterns that may, or may not, appear.
