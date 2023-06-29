@@ -1,7 +1,7 @@
 ---
 title: CanPL Table Trends
 date: 2023-05-30 10:02:00
-author: db
+author: Donald Belcham
 mainimage: cpl_table_trends_hero.png
 ---
 
